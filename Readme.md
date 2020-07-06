@@ -1,4 +1,4 @@
-Eiffel recipe is a project to show concise code example for a quick start. 
+Eiffel recipe is a project to show concise code examples for a quick start. 
 
 Climbing the tower Eiffel was never that easy.
 
